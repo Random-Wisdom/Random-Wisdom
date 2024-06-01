@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Random-Wisdom
 - 👀 I’m interested in random learning of anything interesting
-- 🌱 I’m currently doing engineering
+- 🌱 Engineer
 
 
 <!---
